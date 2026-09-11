@@ -1,68 +1,39 @@
 # Hey, I'm Shiva 👋
 
-**Developer · Builder · Entrepreneur**
+### Developer · Builder · Entrepreneur
 
-I build **AI-powered applications** and I'm currently diving deep into **Agentic AI, RAG, and autonomous systems**.
+I build **AI-powered applications** and I'm currently diving deep into **Agentic AI, RAG, and autonomous systems.**
+
+---
 
 ### 🔭 Currently Exploring
 
-`Agentic AI` `AI Agents` `RAG` `LLM Applications` `Tool Calling`
+**Agentic AI** · **AI Agents** · **RAG** · **LLM Applications** · **Tool Calling**
 
 ---
 
 ### 🛠️ Tech Stack
 
-<div align="center">
+**Languages**
 
-<div style="display: inline-block; vertical-align: top; width: 30%;">
+`Python` `JavaScript` `Java` `C` `HTML` `CSS`
 
-### 💻 Languages
+**Web**
 
-`Python` `JavaScript` `Java`  
-`C` `HTML` `CSS`
+`React` `Node.js` `Express` `Tailwind CSS` `Bootstrap`
 
-</div>
+**Databases & Tools**
 
-<div style="display: inline-block; vertical-align: top; width: 30%;">
-
-### 🌐 Web
-
-`React` `Node.js` `Express`  
-`Tailwind` `Bootstrap`
-
-</div>
-
-<div style="display: inline-block; vertical-align: top; width: 30%;">
-
-### 🗄️ Databases & Tools
-
-`MySQL` `MongoDB`  
-`Git` `GitHub`
-
-</div>
-
-</div>
+`MySQL` `MongoDB` `Git` `GitHub`
 
 ---
 
 ### 📫 Let's Connect
 
-<p align="left">
-  <a href="mailto:your.email@example.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="40" />
-  </a>
-  &nbsp;&nbsp;<br/>
-  <a href="https://linkedin.com/in/your-profile">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
-  </a>
-  &nbsp;&nbsp;<br/>
-  <a href="https://your-portfolio-link.com">
-    <img src="https://skillicons.dev/icons?i=vercel" width="40" />
-  </a>
-</p>
+**[LinkedIn](https://linkedin.com/in/your-profile)** · **[Portfolio](https://your-portfolio-link.com)** · **[Email](mailto:your.email@example.com)**
 
----
+<br>
 
 <p align="center">
-  <b>Building → Learning → Shipping</b>
+  <i>Build → Learn → Ship → Repeat.</i>
 </p>
