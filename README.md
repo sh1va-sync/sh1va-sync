@@ -20,6 +20,5 @@ Right now I'm sharpening my skills in agentic AI, things like building autonomou
 
 ## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=sh1va-sync&show_icons=true&theme=default)
-
+![Your GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=sh1va-sync&show_icons=true&theme=default)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sh1va-sync&layout=compact)
