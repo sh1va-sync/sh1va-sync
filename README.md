@@ -12,33 +12,39 @@ I build **AI-powered applications** and I'm currently diving deep into **Agentic
 
 ### 🛠️ Tech Stack
 
-<p align="center">
-  <b>💻 Languages</b>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>🌐 Web</b>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>🗄️ Databases & Tools</b>
-</p>
+<table>
+<tr>
+<td align="center" width="33%">
 
-<p align="center">
-  <code>Python</code>
-  <code>JavaScript</code>
-  <code>Java</code>
-  <code>C</code>
-  <code>HTML</code>
-  <code>CSS</code>
-  &nbsp;&nbsp;
-  <code>React</code>
-  <code>Node.js</code>
-  <code>Express</code>
-  <code>Tailwind</code>
-  <code>Bootstrap</code>
-  &nbsp;&nbsp;
-  <code>MySQL</code>
-  <code>MongoDB</code>
-  <code>Git</code>
-  <code>GitHub</code>
-</p>
+### 💻 Languages
+
+`Python` `JavaScript` `Java`
+
+`C` `HTML` `CSS`
+
+</td>
+
+<td align="center" width="33%">
+
+### 🌐 Web
+
+`React` `Node.js` `Express`
+
+`Tailwind` `Bootstrap`
+
+</td>
+
+<td align="center" width="33%">
+
+### 🗄️ Databases & Tools
+
+`MySQL` `MongoDB`
+
+`Git` `GitHub`
+
+</td>
+</tr>
+</table>
 
 ---
 
