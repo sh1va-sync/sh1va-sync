@@ -60,8 +60,8 @@ I care about writing **simple code, building useful products, and learning by ac
 ### 📊 GitHub
 
 <p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=transparent" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sh1va-sync&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh1va-sync&layout=compact&hide_border=true&theme=transparent" />
 </p>
 
 <br>
@@ -72,7 +72,7 @@ I care about writing **simple code, building useful products, and learning by ac
   <a href="https://github.com/YOUR_USERNAME">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/YOUR_USERNAME">
+  <a href="https://www.linkedin.com/in/shiva-chary-guddoju-867b93290/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
