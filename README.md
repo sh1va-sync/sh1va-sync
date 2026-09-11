@@ -10,18 +10,31 @@ I build **AI-powered applications** and I'm currently diving deep into **Agentic
 
 ### 🛠️ Tech Stack
 
-|                     💻 **Languages**                    |                         🌐 **Web**                         |        🗄️ **Databases & Tools**       |
-| :-----------------------------------------------------: | :--------------------------------------------------------: | :------------------------------------: |
-| `Python` · `JavaScript` · `Java` · `C` · `HTML` · `CSS` | `React` · `Node.js` · `Express` · `Tailwind` · `Bootstrap` | `MySQL` · `MongoDB` · `Git` · `GitHub` |
-
-### 📊 GitHub
-
 <p align="center">
-  <img height="170" src="https://github-readme-stats-mu-nine-32.vercel.app/api?username=sh1va-sync&show_icons=true&theme=default&hide_border=true" />
-  <img height="170" src="https://github-readme-stats-mu-nine-32.vercel.app/api/top-langs/?username=sh1va-sync&layout=compact&hide_border=true" />
-  <img src="https://streak-stats.demolab.com?user=sh1va-sync&theme=default&hide_border=true" />
-</p>
 
+  <span>
+    <b>💻 Languages</b><br><br>
+    Python · JavaScript · Java<br>
+    C · HTML · CSS
+  </span>
+
+      
+
+  <span>
+    <b>🌐 Web</b><br><br>
+    React · Node.js · Express<br>
+    Tailwind · Bootstrap
+  </span>
+
+      
+
+  <span>
+    <b>🗄️ Databases & Tools</b><br><br>
+    MySQL · MongoDB<br>
+    Git · GitHub
+  </span>
+
+</p>
 
 ### 📫 Let's Connect
 
