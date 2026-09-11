@@ -35,3 +35,10 @@ Right now I'm sharpening my skills in agentic AI, things like building autonomou
 ## 📈 Contribution Graph
 
 ![Activity Graph](https://github-readme-stats-mu-nine-32.vercel.app/graph?username=sh1va-sync&theme=react)
+
+
+## 📫 Let's Connect
+
+- 📧 Email: your.email@example.com
+- 💼 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+- 🌐 Portfolio: [your-portfolio-link.com](https://your-portfolio-link.com)
