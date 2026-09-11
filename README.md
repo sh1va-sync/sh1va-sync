@@ -12,49 +12,36 @@ I build **AI-powered applications** and I'm currently diving deep into **Agentic
 
 ### 🛠️ Tech Stack
 
-<table>
-<tr>
-<td align="center" width="33%">
+<div align="center">
+
+<div style="display: inline-block; vertical-align: top; width: 30%;">
 
 ### 💻 Languages
 
-`Python` `JavaScript` `Java`
-
+`Python` `JavaScript` `Java`  
 `C` `HTML` `CSS`
 
-</td>
+</div>
 
-<td align="center" width="33%">
+<div style="display: inline-block; vertical-align: top; width: 30%;">
 
 ### 🌐 Web
 
-`React` `Node.js` `Express`
-
+`React` `Node.js` `Express`  
 `Tailwind` `Bootstrap`
 
-</td>
+</div>
 
-<td align="center" width="33%">
+<div style="display: inline-block; vertical-align: top; width: 30%;">
 
 ### 🗄️ Databases & Tools
 
-`MySQL` `MongoDB`
-
+`MySQL` `MongoDB`  
 `Git` `GitHub`
 
-</td>
-</tr>
-</table>
+</div>
 
----
-
-### 📊 GitHub
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats-mu-nine-32.vercel.app/api?username=sh1va-sync&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats-mu-nine-32.vercel.app/api/top-langs/?username=sh1va-sync&layout=compact&hide_border=true" />
-  <img height="165" src="https://streak-stats.demolab.com?user=sh1va-sync&theme=default&hide_border=true" />
-</p>
+</div>
 
 ---
 
@@ -64,11 +51,11 @@ I build **AI-powered applications** and I'm currently diving deep into **Agentic
   <a href="mailto:your.email@example.com">
     <img src="https://skillicons.dev/icons?i=gmail" width="40" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;<br/>
   <a href="https://linkedin.com/in/your-profile">
     <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;<br/>
   <a href="https://your-portfolio-link.com">
     <img src="https://skillicons.dev/icons?i=vercel" width="40" />
   </a>
